@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bepl</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bricks_text">SmartBrix, a product of Bondada Engineering Private Limited, is a light weight autoclaved aerated concrete brick / block with high dimensional accuracy. These blocks are manufactured through world class automated process plant technology. SmartBrix can be used for all types of building constructions
+        including high rise buildings for speedy and economic constructions.
+        </string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="register">Register</string>
+    <string name="LOGIN">lOGIN</string>
+    <string name="not_registered_yet_register_here">Not Registered Yet? Register Here</string>
+    <string name="log_out">Log Out</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="my_account">My Account</string>
+    <string name="light_weight_high_compressive_strength_aac_blocksa">Light weight, High Compressive Strength AAC Blocks\n</string>
+    <string name="textview">\t\t\t\t Autoclaved Aerated concrete (AAC), or otherwise known as Autoclave Cellular Concrete (ACC) is a lightweight, precast building material and provides structure, insulation, fire and mold resistance in a single material. AAC products include blocks, wall panels, floor and roof panels, and lintels.  It has since been refined into a high thermally insulating concrete-based material used for construction both internally and externally. Besides insulating capability, one of AAC\'s advantages in construction is its quick and easy installation since the material can be routed, sanded and cut to size on site using standard carbon steel band saws, hand saws and drills.  Even though regular cement mortar can be used, 98% of the buildings erected with AAC materials use thin bed mortar, which comes to deployment in a thickness of â…› inch. This varies on national building codes and creates solid and compact building members. AAC material can be coated with a stucco compound or plaster against the elements. Siding materials such as brick or vinyl siding can also be used to cover the outside of AAC materials.</string>
+    <string name="textview1">What are AAC Blocks?\n</string>
+    <string name="windows_fragment">windows fragment</string>
+    <string name="google_android_map_api_key">AIzaSyDFAjSbwPtkP9ufA6RIGhJQ823WxHGyZHA</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "641221410998",
+    "firebase_url": "https://bepl-39709.firebaseio.com",
+    "project_id": "bepl-39709",
+    "storage_bucket": "bepl-39709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641221410998:android:158ce5b6060e3f86",
+        "android_client_info": {
+          "package_name": "com.example.subhashmorla.bepl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641221410998-lc9hd3ol3ln6kopesr21l9bq5cudah2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfee8zYZdiwFWx2ja7cGjsaBOEZ0bMes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

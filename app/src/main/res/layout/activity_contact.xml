@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.subhashmorla.bepl.contact"
+    android:background="#ccffdd">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:id="@+id/contactpage"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact Page"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textColorHighlight="@color/common_google_signin_btn_text_light_focused"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:id="@+id/layoutcall"
+        android:layout_below="@id/contactpage">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/call"
+            android:text="Tel: +91 4065534662"
+            android:layout_marginTop="11dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:id="@+id/layoutmail"
+        android:layout_below="@+id/layoutcall">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_email_black_24dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mail"
+            android:text="Mail Us At:info@bondada.net"
+            android:layout_marginTop="11dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:id="@+id/layoutweb"
+        android:layout_below="@+id/layoutmail">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_email_black_24dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/web"
+            android:text="Website: www.beplsmartbrix.com"
+            android:layout_marginTop="11dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>
